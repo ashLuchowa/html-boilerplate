@@ -1,1 +1,6 @@
-// Created directly from SHELL
+// following files created
+- index.html
+- css folder
+- style.css
+- js folder
+- app.js
